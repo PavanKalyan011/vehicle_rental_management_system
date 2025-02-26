@@ -1,0 +1,4 @@
+<Resource name="jdbc/vehicleRentalDB" auth="Container"
+          type="javax.sql.DataSource" driverClassName="com.mysql.cj.jdbc.Driver"
+          url="jdbc:mysql://localhost:3306/vehicle_rental"
+          username="root" password="yourpassword" maxTotal="50" />
